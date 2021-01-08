@@ -1,0 +1,16 @@
+body {
+	background:#000000;
+	color:#fff;
+}
+h1 {
+    font-size:40px;
+}
+h2, h3{
+	font-size:30px;
+}
+li{
+	font-size:20px;
+}
+.blue{
+	color:orange;
+}
